@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Web Development
-🌱 I’m currently learning Machine learning
-👯 I’m looking to collaborate on Web Development
+-🔭 I’m currently working on Web Development<br>
+-🌱 I’m currently learning Machine learning<br>
+-👯 I’m looking to collaborate on Web Development
 
 <!--
 **aryananda2001/aryananda2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
